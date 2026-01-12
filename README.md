@@ -97,14 +97,14 @@ Uses polymorphism to process different payment methods dynamically.
 
 ## ▶ How to Run the Project
 
-Open Eclipse IDE
-Import the project as Existing Java Project
-Navigate to:
+Open Eclipse IDE  
+Import the project as Existing Java Project  
+Navigate to:  
 `
 src/Payment/OnlinePayment.java
-`
-Right-click → Run As → Java Application
-Follow console instructions to process payments
+`  
+Right-click → Run As → Java Application  
+Follow console instructions to process payments  
 
 ---
 
