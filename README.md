@@ -108,13 +108,14 @@ Follow console instructions to process payments
 
 ---
 
-## 🌍 Real-Life Application
-This project closely resembles real-world payment gateways like:
-Google Pay
-PhonePe
-Paytm
-Credit/Debit card payment systems used in e-commerce
-Each payment option follows a common protocol, just like in real banking and fintech systems.
+## 🌍 Real-Life Application  
+
+This project closely resembles real-world payment gateways like:  
+Google Pay  
+PhonePe  
+Paytm  
+Credit/Debit card payment systems used in e-commerce  
+Each payment option follows a common protocol, just like in real banking and fintech systems.  
 
 ## 🚀 Future Enhancements
 
