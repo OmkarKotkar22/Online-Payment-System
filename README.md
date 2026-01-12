@@ -119,11 +119,11 @@ Each payment option follows a common protocol, just like in real banking and fin
 
 ## 🚀 Future Enhancements
 
-Add Net Banking payment option
-Integrate exception handling
-Add user authentication
-Connect with a database
-Build a GUI or Web interface
+Add Net Banking payment option  
+Integrate exception handling  
+Add user authentication  
+Connect with a database  
+Build a GUI or Web interface  
 
 ## 👨‍💻 Author
 Omkar Kotkar
